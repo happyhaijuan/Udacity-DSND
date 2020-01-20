@@ -2,7 +2,7 @@
 
 ## Installations
 
-This project is implemented under python 3.7 with scikit-learn, numpy, pandas packages installed.
+This project is implemented under python 3.7 with scikit-learn, numpy, pandas,matplotlib, textblob packages installed.
 
 ## Project Motivation
 
