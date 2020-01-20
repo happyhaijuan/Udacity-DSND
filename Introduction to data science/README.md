@@ -11,7 +11,7 @@ The three questions are:
 
 - which listing has the highest price at Boston?
 - What the most important features for predicting the price of AirBnb at Boston?
-- Find positive and negative reviews based on customer's comments
+- How can find positive and negative reviews based on comments from tenant?
 
 ## Files Desciption
 
