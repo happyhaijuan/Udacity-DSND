@@ -21,5 +21,5 @@ The three questions are:
    Reviews data at Boston
    
 ## Summary of results
-Results and discussion were published on Medium.
+Results and discussion were published on Medium. [Analysis of AirBnb Rental Price in Boston] (https://medium.com/@haijuan/analysis-of-airbnb-rental-price-in-boston-7074bc168d6e )
 
